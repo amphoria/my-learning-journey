@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite --port 5150",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
