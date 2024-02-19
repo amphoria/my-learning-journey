@@ -1,4 +1,4 @@
-# co4da4ac79ab654f426858965
+# My Learning Journey
 
 Quick start:
 
@@ -19,6 +19,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-
-Simple edit to demonstrate pulling code to a loval repo.
 
